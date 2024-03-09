@@ -9,4 +9,5 @@ So, please don't judge me for this. It was a long time ago.
 I made it public so you can take a sneak peek at it. 
 You can't contribute to this project as you don't have the context. 
 That's why I made it public.
-![Uploading IMG_3114.PNG…]()
+
+https://mail.google.com/mail/u/0/#inbox/QgrcJHrjBQXxncBgXjhmpjgsTFNwVDCRHfG?projector=1&messagePartId=0.1
