@@ -10,4 +10,4 @@ I made it public so you can take a sneak peek at it.
 You can't contribute to this project as you don't have the context. 
 That's why I made it public.
 
-https://mail.google.com/mail/u/0/#inbox/QgrcJHrjBQXxncBgXjhmpjgsTFNwVDCRHfG?projector=1&messagePartId=0.1
+https://drive.google.com/file/d/1J9_9AS8rwKg_VjpXx2RRG0z2GZj4QYt2/view?usp=drive_link
