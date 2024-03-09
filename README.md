@@ -10,4 +10,4 @@ I made it public so you can take a sneak peek at it.
 You can't contribute to this project as you don't have the context. 
 That's why I made it public.
 
-![Alt text](https://drive.google.com/file/d/1J9_9AS8rwKg_VjpXx2RRG0z2GZj4QYt2/view?usp=drive_link)
+![Alt text]([https://drive.google.com/file/d/1J9_9AS8rwKg_VjpXx2RRG0z2GZj4QYt2/view?usp=drive_link](https://github.com/KDTechniques/KD-Techniques-Outfit-Studio/blob/main/IMG_3114.PNG?raw=true)https://github.com/KDTechniques/KD-Techniques-Outfit-Studio/blob/main/IMG_3114.PNG?raw=true)
