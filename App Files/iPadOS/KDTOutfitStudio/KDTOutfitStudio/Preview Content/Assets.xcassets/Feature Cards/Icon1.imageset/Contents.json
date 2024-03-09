@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "imani-bahati-LxVxPA1LOVM-unsplash.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
