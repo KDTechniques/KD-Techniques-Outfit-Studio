@@ -11,4 +11,4 @@ You can't contribute to this project as you don't have the context.
 That's why I made it public.
 
 ![alt text](https://github.com/KDTechniques/KD-Techniques-Outfit-Studio/blob/main/IMG_3114.PNG?raw=true)
-![alt text](https://github.com/KDTechniques/KD-Techniques-Outfit-Studio/blob/main/IMG_3115.PNG?raw=true)
+![alt text](https://github.com/KDTechniques/KD-Techniques-Outfit-Studio/blob/main/IMG_3115.png?raw=true)
